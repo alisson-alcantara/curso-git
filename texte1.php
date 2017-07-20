@@ -1,0 +1,4 @@
+<?
+//qualquer coisa
+
+?>
